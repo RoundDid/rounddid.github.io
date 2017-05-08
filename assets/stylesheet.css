@@ -1,9 +1,6 @@
 @font-face {
     font-family: 'RoundDid';
-    src: url('rounddid.woff') format('woff'),
-         url('rounddid.ttf') format('truetype'),
-        url('RoundDid.otf') format('opentype'),
-         url('rounddid.svg#RoundDid') format('svg');
+    src: url('RoundDid.otf') format('opentype'),
     font-weight: normal;
     font-style: normal;
 }
